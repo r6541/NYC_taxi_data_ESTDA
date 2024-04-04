@@ -1,0 +1,1 @@
+# This repo was created to be able to test the dataset easily. It contains a stratified sample of the original NYC Taxi trip data (0.05). The file was originally 2.2GB for January only. After adding STB, the file became 5.1 GB. After creating the stratified sample, the file is 257MB. 
